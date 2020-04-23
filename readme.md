@@ -1,13 +1,5 @@
 Project No. - 12 : Job Portal
 
-Group Members: 
---------------------------
-NEEL PATEL – 171310132036
-SMIT RATHOD - 171310132047
-DHAIRYA SHAH - 171310132049
-PRIYANSH VAGHAMSHI - 171310132059
-
-
 Project Description
 ------------------------------
 1) This website is used for searching jobs on the basis of qualifaction, User can simply Signup and apply for jobs.
