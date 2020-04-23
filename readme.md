@@ -4,11 +4,19 @@ Project Description
 ------------------------------
 1) This website is used for searching jobs on the basis of qualifaction, User can simply Signup and apply for jobs.
 
-2) User can edit resume and upload resume.  
+![](https://raw.githubusercontent.com/Smit2808/Job-Portal/master/screenshots/job%20search%20feature.PNG)
+
+2) User can edit resume and upload resume. 
+
+![](https://raw.githubusercontent.com/Smit2808/Job-Portal/master/screenshots/resume.PNG)
 
 3) If user is preparing for competiive exam and user want to apply for classes of such exams then there are announcements of classes on home page of job portal.
 
+![](https://raw.githubusercontent.com/Smit2808/Job-Portal/master/screenshots/JEE%20NEET%20GATE%20announcements.PNG)
+
 4) If there is vacancy for any job and due date is near(less then or equal to 7 days) then vacancy is highlighted in red color and a special dscription will display "Urgent! Seats are vacant and due date is near.". 
+
+![](https://raw.githubusercontent.com/Smit2808/Job-Portal/master/screenshots/corporate%20jobs.PNG)
 
 
 Softwares Required
@@ -67,3 +75,7 @@ diploma_gov.html - html file of diploma goverment jobs.
 
 aboutus.html - html file for aboutus page.
 resume.html - html file for resume page.
+
+Video for better understanding
+---------------------------------------------
+you can view video "overview of Job portal project.mp4" which i attached above. 
